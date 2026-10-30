@@ -45,8 +45,8 @@ The relational database (`air_tracker.db`) consists of 4 normalized tables:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/air-tracker-flight-analytics.git
-cd air-tracker-flight-analytics
+git clone https://github.com/your-username/Air_Tracker_Flight_Analytics_Project.git
+cd     Air_Tracker_Flight_Analytics_Project
 ```
 
 ### 2. Install Dependencies
